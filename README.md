@@ -14,7 +14,7 @@ Designed intuitive, business-centric KPIs to track revenue growth, seasonal tren
 #### UI/UX Design: 
 Crafted a visually appealing and user-friendly interface with customized visuals and strategic layout planning.
 
-See the full Dashboard here: [Dashboard Link]
+See the full Dashboard here:
 {https://app.powerbi.com/viewr=eyJrIjoiMWViN2M5NzctMjViMS00ZjZhLThlMDItYWRjNzI2M2I3NWM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=174627b46b5b8270add4}
 
 
